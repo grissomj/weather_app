@@ -1,0 +1,15 @@
+{
+    "name": "New York",
+    "main": {
+        "temp": 22.5,
+        "humidity": 60
+    },
+    "weather": [
+        {
+            "description": "clear sky"
+        }
+    ],
+    "wind": {
+        "speed": 3.5
+    }
+}

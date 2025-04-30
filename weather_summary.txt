@@ -1,0 +1,4 @@
+: 22.5°C, clear sky, Humidity: 60%, Wind: 3.5 m/s
+new york: 22.5°C, clear sky, Humidity: 60%, Wind: 3.5 m/s
+New York: 22.5°C, clear sky, Humidity: 60%, Wind: 3.5 m/s
+: 22.5°C, clear sky, Humidity: 60%, Wind: 3.5 m/s
