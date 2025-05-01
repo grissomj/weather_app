@@ -18,3 +18,4 @@ This is a Python GUI weather application built using `tkinter` for Lab 10 and up
 2. Install required library:
    ```bash
    pip install requests
+python gui.py
